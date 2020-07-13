@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AirportLocator.DistanceCalculator.Impl;
+using System;
 using Xunit;
 
 namespace AirportLocator.DistanceCalculator.UnitTest

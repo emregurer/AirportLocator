@@ -1,7 +1,6 @@
 C:\Dev\Personal Projects\C Sharp\C Teleport\AirportLocator.Api\AirportLocator.DistanceCalculator\bin\Debug\netstandard2.0\AirportLocator.DistanceCalculator.deps.json
 C:\Dev\Personal Projects\C Sharp\C Teleport\AirportLocator.Api\AirportLocator.DistanceCalculator\bin\Debug\netstandard2.0\AirportLocator.DistanceCalculator.dll
 C:\Dev\Personal Projects\C Sharp\C Teleport\AirportLocator.Api\AirportLocator.DistanceCalculator\bin\Debug\netstandard2.0\AirportLocator.DistanceCalculator.pdb
-C:\Dev\Personal Projects\C Sharp\C Teleport\AirportLocator.Api\AirportLocator.DistanceCalculator\obj\Debug\netstandard2.0\AirportLocator.DistanceCalculator.csprojAssemblyReference.cache
 C:\Dev\Personal Projects\C Sharp\C Teleport\AirportLocator.Api\AirportLocator.DistanceCalculator\obj\Debug\netstandard2.0\AirportLocator.DistanceCalculator.AssemblyInfoInputs.cache
 C:\Dev\Personal Projects\C Sharp\C Teleport\AirportLocator.Api\AirportLocator.DistanceCalculator\obj\Debug\netstandard2.0\AirportLocator.DistanceCalculator.AssemblyInfo.cs
 C:\Dev\Personal Projects\C Sharp\C Teleport\AirportLocator.Api\AirportLocator.DistanceCalculator\obj\Debug\netstandard2.0\AirportLocator.DistanceCalculator.dll

@@ -6,6 +6,7 @@ using Microsoft.Extensions.Hosting;
 using AirportLocator.AirportProvider.HttpAirportProviderService;
 using AirportLocator.ApplicationService.Infrastructure;
 using AirportLocator.DistanceCalculator;
+using AirportLocator.Api.Infrastructure.ExceptionHandling;
 
 namespace AirportLocator.Api
 {
@@ -30,7 +31,11 @@ namespace AirportLocator.Api
                         section.Bind(options);
                     })
                 .CustomAddRequestHandler()
-                .CustomAddCalculator();
+                .CustomAddCalculator()
+                .AddMvc(options =>
+                {
+                    options.Filters.Add<HttpGlobalExceptionFilter>();
+                });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
